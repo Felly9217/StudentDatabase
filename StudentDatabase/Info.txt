@@ -1,0 +1,20 @@
+1              Longtin        Hang           Computer Science
+2              Whitney        Proctor        Linguistics
+3              Walter         Proctor        Cat
+4              James          Hang           Aerospace Engineering
+5              Jessica        Hang           Sister
+6              Keisuke        Hoshine        Buisness
+7              Katelyn        Richmond       Spanish
+8              Ben            Caldwell       Machanical Engineering
+9              Kolby          McCullough     Coaching
+10             Daniel         Fernandez      Soundcloud Rapper
+11             James          Hang           Dad
+12             Whitney        Hang           Mom
+13             Sam            Burrows        Salesmen
+14             Joseph         Griffin        Quarterback    
+15             Micky          Garcia         Painter        
+16             Coffee         Coco           Wake Up
+17             Sammy          Walter         Cat
+18             Victoria       Hollinger      Chinese
+19             Santa          Clause         Christmas
+20             Jessica        Almazon        Buisness

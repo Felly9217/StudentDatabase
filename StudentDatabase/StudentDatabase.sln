@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1259
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "StudentDatabase", "StudentDatabase\StudentDatabase.vcxproj", "{07D1F401-F8F4-4B75-81E8-0F4AC34F651D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07D1F401-F8F4-4B75-81E8-0F4AC34F651D}.Debug|x64.ActiveCfg = Debug|x64
+		{07D1F401-F8F4-4B75-81E8-0F4AC34F651D}.Debug|x64.Build.0 = Debug|x64
+		{07D1F401-F8F4-4B75-81E8-0F4AC34F651D}.Debug|x86.ActiveCfg = Debug|Win32
+		{07D1F401-F8F4-4B75-81E8-0F4AC34F651D}.Debug|x86.Build.0 = Debug|Win32
+		{07D1F401-F8F4-4B75-81E8-0F4AC34F651D}.Release|x64.ActiveCfg = Release|x64
+		{07D1F401-F8F4-4B75-81E8-0F4AC34F651D}.Release|x64.Build.0 = Release|x64
+		{07D1F401-F8F4-4B75-81E8-0F4AC34F651D}.Release|x86.ActiveCfg = Release|Win32
+		{07D1F401-F8F4-4B75-81E8-0F4AC34F651D}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2EB33E26-9459-4148-BF7A-1219CB10EFC0}
+	EndGlobalSection
+EndGlobal
